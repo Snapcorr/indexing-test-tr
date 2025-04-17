@@ -1,1 +1,4 @@
-<!-- Placeholder for vercel.json -->
+{
+  "version": 2,
+  "public": true
+}
